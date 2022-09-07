@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-de'
+title = 'NOTANOTION'
+theme = "hugo-book"
+[params]
+    BookSearch = true
