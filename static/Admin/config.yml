@@ -3,7 +3,7 @@ media_folder: static/images
 public_folder: /images
 backend:
   name: github
-  branch: master
+  branch: main
   repo: mariokowalski/NOTANOTION
   open_authoring: true
 collections:
