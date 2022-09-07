@@ -1,6 +1,7 @@
 ---
 title: Variable Types
 weight: 5
+bookToc: true
 ---
 
 *(updated from 1.1)*
